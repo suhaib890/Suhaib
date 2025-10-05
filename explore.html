@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Explore - The Farm Project</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800;900&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .explore{max-width:1024px;margin:0 auto;padding:24px}
+    .explore h1{font-family:Montserrat,Poppins,sans-serif;font-weight:800}
+    .explore p{color:#555}
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a href="index.html" class="brand">
+        <span class="brand__the">the</span>
+        <span class="brand__farm">farm</span>
+        <span class="brand__project">project</span>
+      </a>
+      <nav class="topbar__actions">
+        <a class="icon-btn" href="index.html" title="Home">⌂</a>
+        <a class="icon-btn" href="shop.html" title="Shop">🛍</a>
+        <a class="icon-btn" href="about.html" title="About">ℹ</a>
+        <a class="icon-btn" href="login.html" title="Account">👤</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="explore">
+      <h1>Explore Our Range</h1>
+      <p>Hand-picked items and collections. Scroll below for featured products.</p>
+      <section class="products">
+        <div class="container">
+          <div class="products__grid" id="productsGrid"></div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+

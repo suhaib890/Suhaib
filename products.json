@@ -1,0 +1,8 @@
+[
+  {"id":"mk-250","name":"Makhana Classic 250g","price":199,"image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=800&auto=format&fit=crop"},
+  {"id":"mk-masala","name":"Makhana Masala 250g","price":219,"image":"https://images.unsplash.com/photo-1512621776951-7b1bfae7f14e?q=80&w=800&auto=format&fit=crop"},
+  {"id":"mk-rose","name":"Makhana Rose 250g","price":229,"image":"https://images.unsplash.com/photo-1512621776951-3ca5a7d1d9b1?q=80&w=800&auto=format&fit=crop"},
+  {"id":"mk-500","name":"Makhana Classic 500g","price":349,"image":"https://images.unsplash.com/photo-1466637574441-749b8f19452f?q=80&w=800&auto=format&fit=crop"}
+]
+
+
